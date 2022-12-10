@@ -19,6 +19,6 @@ kedro docker build
 kedro docker run
 ```
 
-See below the end pipeline (pre-containerisation)
+See below the end pipeline (pre-containerisation):
 
-![pipeline visualisation](pipeline_visualisation.png)
+![pipeline visualisation](https://github.com/MattStammers/Kedro_Intro/blob/main/pipeline_visualisation.PNG)
