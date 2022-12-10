@@ -13,3 +13,6 @@ Here is my following the Kedro Spaceflight tutorial.
 > kedro test
 > kedro build-docs --open
 > kedro package
+> kedro docker init
+> kedro docker build
+> kedro docker run
