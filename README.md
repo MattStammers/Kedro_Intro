@@ -11,3 +11,5 @@ Here is my following the Kedro Spaceflight tutorial.
 > kedro ipython
 > kedro run
 > kedro test
+> kedro build-docs --open
+> kedro package
