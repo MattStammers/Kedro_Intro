@@ -5,6 +5,9 @@ Here is my following the Kedro Spaceflight tutorial.
 
 > Install v-env using pipenv (Python 3.10)
 
+- Key Commands:
+
 > kedro new
->
-> 
+> kedro ipython
+> kedro run
+> kedro test
